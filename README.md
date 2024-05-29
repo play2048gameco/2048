@@ -9,7 +9,7 @@ Welcome to the [2048](https://play2048game.co/) game project! 2048 is a popular 
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [Basic Rules](#Basic Rules)
+- [Basic Rules](#Basic-Rules)
 - [Strategies](#Strategies)
 
 ## Features
