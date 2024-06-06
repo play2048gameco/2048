@@ -22,7 +22,7 @@ Welcome to the [2048](https://play2048game.co/) game project! 2048 is a popular 
 
 ## Installation
 
-To get started with the 2048 game, follow these steps:
+To get started with the [2048 game](https://play2048gameco.github.io/2048/), follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -49,3 +49,5 @@ To get started with the 2048 game, follow these steps:
 - Avoid Filling Up the Board: Try not to let the board fill up with tiles, as this reduces the number of possible moves and can lead to a game over.
 - Plan Ahead: Think about the consequences of your moves. Plan a few moves ahead to avoid blocking tiles or creating an unmanageable board state.
 - Stay Flexible: While it's good to have a general strategy, stay flexible and adapt to the tiles and moves available.
+
+[Play 2048 Now!](https://play2048gameco.github.io/2048/)
