@@ -26,7 +26,7 @@ To get started with the 2048 game, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/play2048gameco/2048.git
+   https://play2048gameco.github.io/2048/
 
 ## How to Play
 - Use the arrow keys (Up, Down, Left, Right) to move the tiles.
