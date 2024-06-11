@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
 Sitemap: https://play2048gameco.github.io/2048/sitemap.xml
