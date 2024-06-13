@@ -3,4 +3,8 @@
 <loc>https://play2048gameco.github.io/2048/</loc>
 <changefreq>daily</changefreq>
 </url>
+  <url>
+<loc>https://play2048gameco.github.io/2048/ytmp4/</loc>
+<changefreq>daily</changefreq>
+</url>
 </urlset>
